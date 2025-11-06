@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy María Sofía Torres Montaña
 
-<!--
-**Sofi-06/Sofi-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería de Sistemas**, apasionada por el desarrollo de software y las nuevas tecnologías. Me interesa tanto el **frontend** como el **backend**, buscando siempre escribir código limpio, eficiente y bien estructurado.
 
-Here are some ideas to get you started:
+Mi objetivo es seguir fortaleciendo mis habilidades en programación, diseño de sistemas y arquitectura de software, contribuyendo a proyectos innovadores y colaborativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tecnologías y herramientas
+- **Lenguajes:** Java, Python, JavaScript  
+- **Frameworks:** Spring Boot, Express, React  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Control de versiones:** Git y GitHub  
+- **Contenedores:** Docker  
+
+---
+
+### 🌱 Actualmente aprendiendo
+- Microservicios con Spring Boot y Docker  
+- Buenas prácticas de diseño y arquitectura  
+- Integración entre backend y frontend  
+
+---
+
+### 💼 Objetivo profesional
+Desarrollarme como ingeniera de software capaz de diseñar, implementar y mantener aplicaciones robustas, seguras y escalables, aportando al crecimiento tecnológico de las organizaciones.
+
+---
+
+### 📫 Contacto
+- ✉️ **Correo:** [tu_correo@ejemplo.com]  
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 🐙 **GitHub:** [github.com/Sofi-06](https://github.com/Sofi-06)
+
+---
+
+⭐ *“El aprendizaje constante es la clave para crear tecnología que transforme el mundo.”*  
