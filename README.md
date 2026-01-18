@@ -29,7 +29,7 @@ Desarrollarme como ingeniera de software capaz de diseñar, implementar y manten
 
 ### 📫 Contacto
 - ✉️ **Correo:** mariasofiatm@gmail.com  
-- 💼 **LinkedIn:** www.linkedin.com/in/maria-sofia-torres-montaña-966599332(www.linkedin.com/in/maria-sofia-torres-montaña-966599332)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/maria-sofia-torres-montaña-966599332](www.linkedin.com/in/maria-sofia-torres-montaña-966599332)  
 - 🐙 **GitHub:** [github.com/Sofi-06](https://github.com/Sofi-06)
 
 ---
