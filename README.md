@@ -28,7 +28,7 @@ Desarrollarme como ingeniera de software capaz de diseñar, implementar y manten
 ---
 
 ### 📫 Contacto
-- ✉️ **Correo:** [tu_correo@ejemplo.com]  
+- ✉️ **Correo:** [mariasofiatm@gmail.com]  
 - 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
 - 🐙 **GitHub:** [github.com/Sofi-06](https://github.com/Sofi-06)
 
